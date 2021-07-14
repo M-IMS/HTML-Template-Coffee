@@ -37,7 +37,8 @@ body {
   font-family: "Lato", sans-serif;
   line-height: 1.80857;
   font-weight: normal;
-  
+  background-image: url(../images/Background_img.jpg);
+  background-size: 30rem;
 }
 
 .main-layout {
